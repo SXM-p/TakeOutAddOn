@@ -1,0 +1,42 @@
+# -----------------------------
+# Compiled object files
+# -----------------------------
+*.o
+*.obj
+
+# -----------------------------
+# Executables
+# -----------------------------
+PhotoOrganizer
+*.exe
+
+# -----------------------------
+# Build directories
+# -----------------------------
+build/
+bin/
+Debug/
+Release/
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+*.code-workspace
+*.idea/
+*.sln
+*.vcxproj*
+*.DS_Store
+
+# -----------------------------
+# Logs and temporary files
+# -----------------------------
+*.log
+*.tmp
+
+# -----------------------------
+# Miscellaneous
+# -----------------------------
+*.user
+*.userosscache
+*.userprefs
